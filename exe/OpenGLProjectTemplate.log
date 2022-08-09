@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(OpenGLProjectTemplate.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(43,47): warning C4305: “初始化”: 从“double”到“float”截断
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(78,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(133,12): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(146,12): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(165,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(166,32): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(166,20): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(213,38): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(214,32): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(216,25): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\OpenGLrappers\OpenGLProjectTemplate\源.cpp(286,34): warning C4305: “参数”: 从“double”到“GLclampf”截断
+  OpenGLProjectTemplate.vcxproj -> C:\OpenGLrappers\OpenGLProjectTemplate\Debug\MiniProject-ZHU Xinyu.exe
